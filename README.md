@@ -6,6 +6,7 @@ CREATE A CICD PIPLINE AND  DEPLOY A WEBSITE IN APACHE WEBSERVER HOSTED ON AWS US
 
 ![image](https://github.com/Aseemakram19/website-ci-cd-pipline/assets/113539818/e780b80e-b5e9-4655-9e63-6e5e948537fd)
 
+Added the github webhook
 
 STEPS TO BE FOLLOWED .
 FOLLOWS TUTORIALS & GITHUB FOR PROJECT 
